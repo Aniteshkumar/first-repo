@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+    // this is for creating table
+
     int n;
     cout<<"enter any table :";
     cin>>n;
